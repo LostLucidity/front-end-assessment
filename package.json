@@ -1,0 +1,16 @@
+{
+  "name": "front-end-assessment",
+  "version": "1.0.0",
+  "description": "This project serves as an assessment of your knowledge of the front end domain.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Justin Schroeder <jschroeder@getwrecked.com> (http://getwrecked.com)",
+  "license": "UNLISCENCED",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "private": true
+}
